@@ -48,7 +48,7 @@ Most notable place where creating a code was way faster than doing it manually w
 as it's easier for me to describe how to transform the data than to remember specific syntax for pandas dataframe.
 
 ### Example:
-```
+```python
 def process_data(path_to_csv):
     """
     Read content of csv data and create new csv data with columns adjusted for machine learning.
