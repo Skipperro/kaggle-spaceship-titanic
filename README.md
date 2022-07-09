@@ -6,7 +6,7 @@
 ## The Challange:
 I've created this project to answer the question:
 
-**Can I create a decent machine learning code by writing mostly comments and let GitHub Copilot handle the actual code?**
+**Can I create a decent machine learning code by writing mostly comments and letting GitHub Copilot handle the actual code?**
 
 For that I've decided to take part the [Kaggle Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic). 
 This is a public Kaggle competition where AI is trying to predict whether a passenger on a spaceship survived encounter with space anomaly. 
